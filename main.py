@@ -73,7 +73,7 @@ def main():
         print("6. Octagon")
         print("7. Exit")
 
-        choice = int(input("Enter your choice: "))
+        choice = int(input("Please enter your choice: "))
 
         if choice == 1:
             side = float(input("Enter the side length of the square: "))
